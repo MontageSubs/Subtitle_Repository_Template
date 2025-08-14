@@ -181,7 +181,7 @@ For fans and viewers, please join our [Telegram group](#社交媒体帐号). For
 
 <h1 id="致谢">🙏 致谢 / Acknowledgements</h1>
 
-感谢所有电影与剧集的制作团队及创作者 —— 没有您们的付出就不会有我们的字幕。
+感谢所有电影与剧集的制作团队及创作者 —— 没有你们的付出就不会有我们的字幕。
 
 Thank you to all filmmakers and creators—without your work, our subtitles would not exist.
 
@@ -219,41 +219,42 @@ This project may feature third-party logos, names, and other marks owned by thei
 
 本存储库中所有文件，除非另有说明，均采用 **知识共享 署名—非商业性使用—相同方式共享 4.0 国际许可协议（CC BY-NC-SA 4.0）** 发布。
 
-**您可以：**  
-- 复制、分发、展示和演示本项目的任何内容  
-- 基于本项目进行修改、再创作，并在相同许可协议下发布您的衍生作品  
-- 为非商业目的使用和分享  
+**您可以：**
+- 复制、分发、展示和演示本项目的任何内容
+- 基于本项目进行修改、再创作，并在相同许可协议下发布您的衍生作品
+- 为非商业目的使用和分享
 
-**您不可：**  
-- 商业性使用本项目任何内容（包括直接销售、付费分发等）  
-- 删除或更改署名信息  
-- 在不遵守相同协议（SA）的情况下发布衍生作品  
+**您不可：**
+- 商业性使用本项目任何内容（包括直接销售、付费分发等）
+- 删除或更改署名信息
+- 在不遵守相同协议（SA）的情况下发布衍生作品
 
 欲了解完整条款，请参阅本仓库根目录下的 [LICENSE（许可协议）](./LICENSE) 文件。
 
 All files in this repository, unless otherwise noted, are released under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.
 
-**You may:**  
-- Copy, distribute, display, and perform any content from this project  
-- Modify and build upon this project, provided that you release your derivative works under the same license  
-- Use and share for non-commercial purposes  
+**You may:**
+- Copy, distribute, display, and perform any content from this project
+- Modify and build upon this project, provided that you release your derivative works under the same license
+- Use and share for non-commercial purposes
 
-**You may not:**  
-- Use any content from this project for commercial purposes (including direct sale or paid distribution)  
-- Remove or alter the required attribution information  
-- Distribute derivative works under different terms  
+**You may not:**
+- Use any content from this project for commercial purposes (including direct sale or paid distribution)
+- Remove or alter the required attribution information
+- Distribute derivative works under different terms
 
 For the full license text, please see the [LICENSE](./LICENSE) file in the root of this repository.
 
 <h2 id="署名信息">📝 署名信息 / Attribution</h2>
 
-根据 CC BY-NC-SA 4.0 要求，所有使用或再发布本项目内容时必须注明以下信息：  
-- **蒙太奇字幕组 (MontageSubs)**  
-- **贡献者等成员**  
+根据 CC BY-NC-SA 4.0 要求，所有使用或再发布本项目内容时必须注明以下信息：
+- **蒙太奇字幕组 (MontageSubs)**
+- **任何希望被列出的贡献者或其他成员**
 
-In accordance with CC BY-NC-SA 4.0, any use or redistribution of this project’s materials must include the following attribution:  
-- **MontageSubs**  
-- **Contributors and other members**  
+请在您分享或发布时，将以上署名信息一并包含在显著位置。
 
-请在您分享或发布时，将以上署名信息一并包含在显著位置。  
+In accordance with CC BY-NC-SA 4.0, any use or redistribution of this project’s materials must include the following attribution:
+- **MontageSubs**
+- **Any contributors or other members who wish to be listed**
+
 Please ensure that this attribution is clearly visible whenever you share or publish these materials.
