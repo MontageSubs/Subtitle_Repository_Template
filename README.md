@@ -35,14 +35,14 @@
     <th>OpenSubtitles</th>
   </tr>
   <tr>
-    <!-- 字幕库 --><td><a href="https://example.com"><img src="https://zimuku.org/favicon.png" alt="字幕库" width="24" height="24" /></a></td>
-    <!-- SubHD --><td><a href="https://example.com"><img src="https://img.subhd.tv/files/favicon-32x32.png" alt="SubHD" width="24" height="24" /></a></td>
-    <!-- 射手网(伪) --><td><a href="https://example.com"><img src="https://2.assrt.net/favicon.ico" alt="射手网(伪)" width="24" height="24" /></a></td>
-    <!-- OpenSubtitles --><td><a href="https://example.com"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles" width="24" height="24" /></a></td>
+    <td><a href="https://zimuku.org"><img src="https://zimuku.org/favicon.png" alt="字幕库" width="24" height="24"/></a></td>
+    <td><a href="https://subhd.com"><img src="https://img.subhd.tv/files/favicon-32x32.png" alt="SubHD" width="24" height="24"/></a></td>
+    <td><a href="https://assrt.net"><img src="https://2.assrt.net/favicon.ico" alt="射手网(伪)" width="24" height="24"/></a></td>
+    <td><a href="https://opensubtitles.org"><img src="https://www.opensubtitles.org/favicon.ico" alt="OpenSubtitles" width="24" height="24"/></a></td>
   </tr>
 </table>
 
-[▲ 仅当字幕制作完成且发布后显示此节]
+[▲ 仅当字幕制作完成且发布后显示此节，对于隐藏请使用 html 语法 ``<!--被隐藏的内容-->``]
 
 <h1 id="字幕进度">⏳ 字幕进度</h1>
 
@@ -164,7 +164,7 @@
   </tr>
   <tr>
     <!-- 蓝天 BlueSky --><td><a href="https://bsky.app/profile/montagesubs.bsky.social"><img src="https://web-cdn.bsky.app/static/favicon-32x32.png" alt="蓝天 BlueSky" width="24" height="24" />@MontageSubs</a> </td>
-    <!-- 电报频道 Telegram Channel --><td><a href="https://t.me/MTSubs"><img src="https://t.me/favicon.ico" alt="电报频道 Telegram Channel" width="24" height="24" />@MTSubs</a></td>
+    <!-- 电报频道 Telegram Channel --><td><a href="https://t.me/s/MTSubs"><img src="https://t.me/favicon.ico" alt="电报频道 Telegram Channel" width="24" height="24" />@MTSubs</a></td>
     <!-- 电报群组 Telegram Group --><td><a href="https://t.me/MontageSubs"><img src="https://t.me/favicon.ico" alt="电报群组 Telegram Group" width="24" height="24" />@MontageSubs</a></td>
   </tr>
 </table>
