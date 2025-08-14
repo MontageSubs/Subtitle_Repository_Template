@@ -1,8 +1,8 @@
 # 示例 宇宙自助洗衣店 Cosmos Laundromat 2015 [◂电影双语标题+年份]
 
-示例 在一座荒岛上，意欲自尽的绵羊弗兰克遇到了一位古怪的推销员，得到了“一生仅有的”礼物——可他万万没想到，这么一份“人生”，他根本承受不了。
+示例 在一个荒凉的小岛，自杀羊弗兰克满足他的命运在一个古怪的推销员，谁提供他一生的礼物。他一点也不知道，他只能处理这么多的“寿命”。
 
-[▲ 对这部电影的中文介绍，可以来自中文 Wikipedia，或者在许可证不冲突的情况下来自其他来源，比如豆瓣]
+[▲ 对这部电影的中文介绍，可以来自中文维基百科和TMDB，或者在许可协议不冲突的情况下来自其他来源，比如豆瓣，也可以自行从英语进行翻译]
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/CosmosLaundromatPoster.jpg/500px-CosmosLaundromatPoster.jpg" alt="电影海报" width="200" />
 
@@ -42,15 +42,15 @@
   </tr>
 </table>
 
-[▲ 仅当翻译完成且发布后显示此节]
+[▲ 仅当字幕制作完成且发布后显示此节]
 
-<h1 id="翻译进度">⏳ 翻译进度</h1>
+<h1 id="字幕进度">⏳ 字幕进度</h1>
 
 - [x] 翻译（100%）
 - [ ] 特效（50%）
 - [ ] 发布（0%）
 
-[▲ 当字幕翻译流程取得进展后请更新此节]
+[▲ 当字幕制作流程取得进展后请更新此节]
 
 <details>
 <summary id="待办事项">📝 待办事项</summary>
@@ -66,9 +66,9 @@
 
 <h1 id="协作">🤝 协作</h1>
 
-蒙太奇字幕组是一个非营利性质的在线志愿翻译小组，旨在将小而精的影视作品从外语翻译到中文，并提供出色且多信息的翻译。
+蒙太奇字幕组是一个非营利性质的在线志愿字幕组，旨在将小而精的影视作品从外语翻译到中文，并致力于提供出色的字幕。
 
-作为翻译组成员可以直接协作和发布内容，非翻译组成员可以通过 GitHub 的 [Issues 问题列表](issues) 或者 [电报 Telegram 群组](#社交媒体帐号) 提供建议和反馈，不过我们强烈建议你在有能力作出贡献时[加入我们](#如何加入)，一起来制作字幕！
+作为字幕组成员可以直接协作和发布内容，非字幕组成员可以通过 GitHub 的 [Issues 问题列表](issues) 或者 [电报 Telegram 群组](#社交媒体帐号) 提供建议和反馈，不过我们强烈建议你在有能力作出贡献时[加入我们](#如何加入)，一起来制作字幕！
 
 
 <h2 id="字幕组纳新">🙋 字幕组纳新</h2>
@@ -106,7 +106,7 @@
 
 ````
 .
-├─ LICENSE（许可证）
+├─ LICENSE（许可协议）
 ├─ README.md（此文档）
 ├─ web
 │  ├─ WebRip版字幕.ass
@@ -126,7 +126,7 @@
 
 <h2 id="贡献许可">📄 贡献许可</h2>
 
-当你做出贡献时，你需要知道你的贡献将在 CC BY-NC-SA 4.0 许可协议下发布，这是一个促进知识自由传播的许可证，有关许可证详细信息请看 [许可证](#许可证) 章节。
+当你做出贡献时，你需要知道你的贡献将在 CC BY-NC-SA 4.0 许可协议下发布，这是一个促进知识自由传播的许可证，我们很自豪地使用它，有关许可证详细信息请看 [许可协议](#许可协议) 章节。
 
 
 
@@ -170,13 +170,6 @@
 </table>
 
 
-<h1 id="版权声明">©️ 版权声明 / Copyright Notice</h1>
-
-本项目由志愿者字幕翻译小组维护，旨在非商业、非盈利的研究、学习及评论用途下，为电影、剧集提供字幕翻译与协作。所有字幕文本及排版均为团队成员基于原片进行的合理使用或其他法定著作权例外创作，仅受知识共享 署名—非商业性使用—相同方式共享 4.0 国际许可协议（CC BY-NC-SA 4.0）约束。字幕文件仅供学习、研究或评论之用；如需获取原视频或音频，请前往权利人或官方渠道合法购买或观看。我们不参与也不支持任何形式的盗版电影或剧集的制作、分发与传播。
-
-This project is maintained by a volunteer subtitle translation team on a non-commercial, non-profit basis for educational, research, and commentary purposes only. All subtitle text and formatting are derivative works created under applicable copyright exceptions or fair use doctrines and are released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). These subtitle files are provided solely for study, research, and review; to access the original video or audio content, please obtain it through the rights holders or other legitimate channels. We do not engage in, nor endorse, any form of unauthorized distribution or piracy of films or TV series.
-
-
 
 <h1 id="联系我们">📬 联系我们 / Contact Us</h1>
 
@@ -186,7 +179,43 @@ For fans and viewers, please join our [Telegram group](#社交媒体帐号). For
 
 
 
-<h1 id="许可证">📜 许可证 / License</h1>
+<h1 id="致谢">🙏 致谢 / Acknowledgements</h1>
+
+感谢所有电影与剧集的制作团队及创作者 —— 没有您们的付出就不会有我们的字幕。
+
+Thank you to all filmmakers and creators—without your work, our subtitles would not exist.
+
+我们衷心感谢以下开源或免费软件及平台对本项目的直接或间接支持，正是有了你们的无私奉献，才让我们的字幕协作得以顺利开展。
+
+We sincerely thank the following open-source or free software and platforms for their direct and indirect support—your selfless contributions make our subtitle collaboration possible.
+
+| 软件 / Software                         | 平台 / Platform                              |
+|-----------------------------------------|-----------------------------------------------|
+| FFmpeg                                  | GitHub                                        |
+| libass                                  | 字幕库                                        |
+| 思源黑体 / 思源宋体 (Source Han Sans/Serif) | SubHD                                         |
+| Subtitle Edit                           | 射手网(伪)                                    |
+| SrtEdit                                 | OpenSubtitles                                 |
+| VLC media player                        | Telegram                                      |
+| Kodi                                    | ...                                           |
+| NOVA Video Player                       |                                               |
+| ...                                     |                                               |
+
+
+
+<h1 id="版权声明">©️ 版权声明 / Copyright Notice</h1>
+
+本项目由志愿者字幕翻译团队非商业、非盈利地维护，旨在为电影和剧集提供字幕翻译与协作，限于教育、研究和评论用途。所有字幕文本与排版均基于原片，依据合理使用或其他法定著作权例外产生，并遵循“[知识共享 署名—非商业性使用—相同方式共享 4.0 国际许可协议（CC BY-NC-SA 4.0）](#许可协议)”发布。字幕文件仅供学习、研究和评论之用；如需获取原视频或音频，请通过权利人或官方渠道合法购买或观看。我们不参与亦不支持任何形式的盗版制作、分发或传播。
+
+本项目中可能出现的第三方徽标、名称及其他标识，均为其各自权利人的商标或注册商标；我们仅在合理使用或其他法定著作权例外范围内使用，以准确传达其含义。
+
+This project is maintained on a non-commercial, non-profit basis by a volunteer subtitle translation team, with the sole purpose of providing subtitles for films and TV series for educational, research, and commentary use. All subtitle text and formatting are derived from the original material under fair use or other applicable copyright exceptions and are released under the “[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](#许可协议)”. These subtitle files are provided exclusively for study, research, and review; to access the original video or audio, please obtain it through the rights holders or other legitimate channels. We neither engage in nor endorse any form of unauthorized production, distribution, or piracy.
+
+This project may feature third-party logos, names, and other marks owned by their respective rights holders. We use them solely under fair use or other applicable copyright exceptions to accurately convey their meaning.
+
+
+
+<h1 id="许可协议">📜 许可协议 / License</h1>
 
 本存储库中所有文件，除非另有说明，均采用 **知识共享 署名—非商业性使用—相同方式共享 4.0 国际许可协议（CC BY-NC-SA 4.0）** 发布。
 
@@ -200,7 +229,7 @@ For fans and viewers, please join our [Telegram group](#社交媒体帐号). For
 - 删除或更改署名信息  
 - 在不遵守相同协议（SA）的情况下发布衍生作品  
 
-欲了解完整条款，请参阅本仓库根目录下的 [LICENSE（许可证）](./LICENSE) 文件。
+欲了解完整条款，请参阅本仓库根目录下的 [LICENSE（许可协议）](./LICENSE) 文件。
 
 All files in this repository, unless otherwise noted, are released under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.
 
