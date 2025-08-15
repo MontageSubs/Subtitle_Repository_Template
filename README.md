@@ -119,11 +119,11 @@
 ├─ web
 │  ├─ WebRip版字幕.ass
 │  ├─ WebRip版字幕.srt
-│  └─ WebRip版字幕.sub
+│  └─ WebRip版字幕.sup
 ├─ bluray
 │  ├─ Blueray版字幕.ass
 │  ├─ Blueray版字幕.srt
-│  └─ Blueray版字幕.sub
+│  └─ Blueray版字幕.sup
 ├─ scripts
 │   └─ 转换格式脚本.sh
 └─ docs
