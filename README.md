@@ -211,19 +211,33 @@ We sincerely thank the following open-source or free software and platforms for 
 
 
 
-<h1 id="版权声明">©️ 版权声明 / Copyright Notice</h1>
+<h1 id="著作权声明">©️ 著作权声明 / Copyright Notice</h1>
 
-本项目由志愿者字幕翻译团队非商业、非盈利地维护，旨在为电影和剧集提供字幕翻译与协作，限于教育、研究和评论用途。所有字幕文本与排版均基于原片，依据合理使用或其他法定著作权例外产生，并遵循“[知识共享 署名—非商业性使用—相同方式共享 4.0 国际许可协议（CC BY-NC-SA 4.0）](#许可协议)”发布。字幕文件仅供学习、研究和评论之用；如需获取原视频或音频，请通过权利人或官方渠道合法购买或观看。我们不参与亦不支持任何形式的盗版制作、分发或传播。
+本项目由志愿者字幕翻译团队**非商业、非盈利**地维护，旨在为电影和剧集提供字幕翻译与协作，限于**教育、研究和评论**用途。
+
+所有字幕文本与排版均基于原片，依据**合理使用或其他法定著作权例外产生**，并遵循“[知识共享 署名—非商业性使用—相同方式共享 4.0 国际许可协议（CC BY-NC-SA 4.0）](#许可协议)”发布。
+
+字幕文件仅供**学习、研究和评论**之用；如需获取原视频或音频，请通过权利人或官方渠道**合法购买或观看**。
+
+我们**不参与亦不支持任何形式的盗版制作、分发或传播**。
 
 本项目中可能出现的第三方徽标、名称及其他标识，均为其各自权利人的商标或注册商标；我们仅在合理使用或其他法定著作权例外范围内使用，以准确传达其含义。
 
 如您认为本项目内容可能侵犯您的权利，请直接通过“[联系我们](#联系我们)”与我们联系，我们将严肃、及时地审查并处理您的权利主张。
 
-This project is maintained on a non-commercial, non-profit basis by a volunteer subtitle translation team, with the sole purpose of providing subtitles for films and TV series for educational, research, and commentary use. All subtitle text and formatting are derived from the original material under fair use or other applicable copyright exceptions and are released under the “[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](#许可协议)”. These subtitle files are provided exclusively for study, research, and review; to access the original video or audio, please obtain it through the rights holders or other legitimate channels. We neither engage in nor endorse any form of unauthorized production, distribution, or piracy.
+This project is maintained on a **non-commercial, non-profit** basis by a volunteer subtitle translation team, with the sole purpose of providing subtitles for films and TV series for **educational, research, and commentary use**.
+
+All subtitle text and formatting are derived from the original material under **fair use or other applicable copyright exceptions** and are released under the “[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](#许可协议)”.
+
+These subtitle files are provided exclusively for **study, research, and review**; to access the original video or audio, please obtain it through the rights holders or other **legitimate channels**.
+
+**We neither engage in nor endorse any form of unauthorized production, distribution, or piracy**.
 
 This project may feature third-party logos, names, and other marks owned by their respective rights holders. We use them solely under fair use or other applicable copyright exceptions to accurately convey their meaning.
 
 If you believe that any materials in this project may infringe upon your rights, please contact us directly via “[Contact Us](#联系我们)”; we will diligently and promptly review and address your claim.
+
+
 
 <h1 id="许可协议">📜 许可协议 / License</h1>
 
